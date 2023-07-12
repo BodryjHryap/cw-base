@@ -22,7 +22,7 @@ public class Main {
         System.out.println("emloyee[7].getSalary() = " + employee[7].getSalary());
         System.out.println("employee[8].getId() = " + employee[8].getId());
 
-        employee[4].setSalary(200000);
+        employee[4].setSalary(180000);
         System.out.println("emloyee[4].getSalary() = " + employee[4].getSalary());
 
         System.out.println("Emloyee.sumSalary(emloyee) = " + Employee.summSalary(employee));
